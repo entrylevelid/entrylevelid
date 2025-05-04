@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <!-- 🔭 I’m currently working as Network Technical Support
 🌱 I’m currently learning and developing LLM --> 
 
-##### 💫 About Me:
-🔭 I’m currently working as Network Technical Support<br>🌱 I’m currently learning and developing LLM
-
 
 ##### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/entrylevelid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xadrianh) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@entrylevelid) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@EntryLevelID) 

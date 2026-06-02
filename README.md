@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-<!-- 🔭 I’m currently working as Network Technical Support
-🌱 I’m currently learning and developing LLM --> 
+<!-- 🔭 I’m currently working as Network Engineer
+🌱 I’m currently learning and developing RAG and Agentic RAG --> 
 
 
 ##### 🌐 Socials:
